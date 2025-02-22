@@ -1,3 +1,2 @@
 Hello 👋
-- minecraft
-- html & javascript
+minecraft stuff
